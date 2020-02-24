@@ -1,4 +1,4 @@
-# **Sozer** Hospital-Management-System
+# Hospital-Management-System
 
 # Used Technologies
 1. Java Web Application building using ( JSP - Servlet )
